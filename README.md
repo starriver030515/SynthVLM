@@ -27,7 +27,6 @@ Prepare your captions in JSON format. Here’s an example of how your JSON shoul
         "id": 2,
         "caption": "The dog in the image is brown with a red collar. It sits behind a window, looking out longingly, which gives it a sense of longing for the outdoors or something it sees."
     },
-    ......
 ]
 ```
 
