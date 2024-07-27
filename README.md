@@ -5,7 +5,7 @@
 🚀🚀🚀 Official implementation of **SynthVLM: High-Efficiency and High-Quality Synthetic Data for Vision Language Models**.
 
 <p align="center">
-  <img src="https://github.com/starriver030515/SynthVLM/blob/main/demo/imagecmp.pdf">
+  <img src="[https://github.com/starriver030515/SynthVLM/blob/main/demo/imagecmp.pdf](https://raw.githubusercontent.com/starriver030515/SynthVLM/main/demo/imagecmp.pdf)">
 </p>
 
 
