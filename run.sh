@@ -1,0 +1,12 @@
+python pipeline.py \
+    --init_caption_path ./jsons/init_caption.json \
+    --synth_caption_path ./jsons/synth_caption.json \
+    --diffusion_model stable_diffusion_3 \
+    --diffusion_config ./configs/stable_diffusion_3.json \
+    --image_dir ./images \
+    --width 1024 \
+    --height 1024 \
+    --clipscore_path ./jsons/clipscore.json \
+    --filtered_clipscore_path ./jsons/filterd_clipscore.json \
+    --select_radio 1.0 \
+    --repeat 5

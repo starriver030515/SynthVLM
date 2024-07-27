@@ -1,0 +1,58 @@
+[
+    {
+        "id": "000000000",
+        "image": "part_0/00000/000000000.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Relay a brief, clear account of the picture shown.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The bus in the image is white and red.The back of the bus features an advertisement.The bus is driving down the street, which is crowded with people and other vehicles."
+            }
+        ]
+    },
+    {
+        "id": "000000001",
+        "image": "part_0/00000/000000001.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a brief description of the given image.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The dog in the image is brown.The dog has a red collar.The dog is sitting behind the window. As the dog stares out the window, it appears to feel longingly, perhaps suggesting a desire to be outside or interacting with someone or something that has caught its attention.The dog has shaggy, fuzzy, and furry brown fur, which makes it look cute and cuddly."
+            }
+        ]
+    },
+    {
+        "id": "000000002",
+        "image": "part_0/00000/000000002.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Render a clear and concise summary of the photo.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The image shows a large passenger jet belonging to China Airlines.The airplane is on the ground, as it is seen taxiing down the runway next to a body of water.The body of water is located right next to the runway where the airplane is taxiing.The landscape visible around the airplane consists of a runway and a large body of water or lake located next to it."
+            }
+        ]
+    },
+    {
+        "id": "000000003",
+        "image": "part_0/00000/000000003.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the image concisely.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The girl in the image is eating a dessert, which appears to be a graham cracker treat or a cookie sandwich.The girl has blonde hair, and she is wearing a pink shirt.The dessert is on a green plate.The girl is looking up at the camera while taking a bite of her dessert.The girl is eating her dessert at the table."
+            }
+        ]
+    }
+]

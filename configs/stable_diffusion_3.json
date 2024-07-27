@@ -1,0 +1,9 @@
+{
+    "model_name_or_path": "stabilityai/stable-diffusion-3-medium-diffusers",
+    "n_steps": 60,
+    "guidance_scale": 10.0,
+    "max_sequence_length": 512,
+    "width": 1024,
+    "height": 1024,
+    "negative_prompt": ""
+}

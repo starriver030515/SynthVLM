@@ -1,0 +1,10 @@
+{
+    "base_name_or_path": "stabilityai/stable-diffusion-xl-base-1.0",
+    "refiner_name_or_path": "stabilityai/stable-diffusion-xl-refiner-1.0",
+    "n_steps": 60,
+    "high_noise_frac": 0.8,
+    "guidance_scale": 20.0,
+    "width": 1024,
+    "height": 1024,
+    "negative_prompt": ""
+}
