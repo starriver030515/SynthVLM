@@ -9,8 +9,6 @@
 </p>
 
 
-- **Authors**: Zheng Liu*, Hao Liang*, Wentao Xiong, Chong Chen, Conghui He, Bin Cui, Wentao Zhang
-
 ## Quick Usage
 
 ## Data Preparation
